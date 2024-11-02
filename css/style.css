@@ -643,14 +643,14 @@ margin-right: 45px;
 
 
   /* Responsive layout - makes a one column-layout instead of two-column layout */
-  @media (max-width: 580px) {
+  @media (max-width: 768px) {
     .row {
       flex-direction: column;
     }
   }
   
   /* Responsive layout - makes a one column layout instead of a two-column layout */
-  @media (max-width: 580px) {
+  @media (max-width: 768px) {
     .row-left {
       height: 80px;
     }
