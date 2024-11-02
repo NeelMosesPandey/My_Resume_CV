@@ -30,7 +30,7 @@ By leveraging the power of semantic HTML and modern CSS, this project allows you
 
 See the Resume Builder in action! Check out our live demo to get a feel for what you can create:
 
-[View Live Demo]https://github.com/NeelMosesPandey/Personal_CV.git
+[View Live Demo][https://github.com/NeelMosesPandey/Personal_CV.git](https://neelmosespandey.github.io/Personal_CV/)
 
 In this demo, you'll see:
 - A sample resume showcasing the design possibilities
